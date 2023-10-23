@@ -1,6 +1,6 @@
 # Rshiny-Vehicle-Collisions-Dasboard
 Shiny Dashboard for Accident Data Analysis
-Shiny Logo
+
 
 Overview
 This Shiny Dashboard is a powerful tool for data analysis and visualization, specifically designed for analyzing accident data. It offers a user-friendly interface for exploring accident-related information, making data-driven decisions, and gaining insights from the dataset. The dashboard is equipped with interactive components, allowing users to customize their analysis based on specific criteria.
@@ -31,28 +31,6 @@ Causes of Accidents: A bar chart representing the top contributing factors for v
 Data Overview: A table presenting the raw data, allowing users to explore the dataset.
 
 Hourly Map: Offers an interactive map view specifically tailored to the selected hour.
-
-Installation and Deployment
-Clone this repository to your local machine or download the files.
-
-Ensure you have R and RStudio installed on your system.
-
-Open the R project in RStudio.
-
-Install the necessary R packages if you haven't already:
-
-R
-Copy code
-install.packages(c("shiny", "leaflet", "dygraphs", "dplyr", "lubridate", "DT", "plotly", "ggplot2"))
-Launch the Shiny app by running the following code in the R console:
-
-R
-Copy code
-library(shiny)
-shiny::runApp("path/to/your/app")
-Replace "path/to/your/app" with the full path to the directory containing the Shiny app files.
-
-The Shiny dashboard should open in your default web browser.
 
 
 Maintained by:
