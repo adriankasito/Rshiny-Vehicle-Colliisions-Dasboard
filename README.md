@@ -1,4 +1,4 @@
-# Rshiny-Vehicle-Colliisions-Dasboard
+# Rshiny-Vehicle-Collisions-Dasboard
 Shiny Dashboard for Accident Data Analysis
 Shiny Logo
 
